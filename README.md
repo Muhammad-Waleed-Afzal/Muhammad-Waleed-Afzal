@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate tech leader and problem-solver, with expe
 
 ### 🛠️ Tech Stack  
 - **Languages**: Python, SQL
-- **Frameworks**: Next, Flask, Fast-API, React
+- **Frameworks**: Next, Fast-API, React
 - **Tools & Libraries**: Pandas, NumPy, Pyarrow
 - **Specialties**: Data Pipelines, ETL Tool, SSIS ,Power BI
 
